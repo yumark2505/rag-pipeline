@@ -17,9 +17,6 @@ papers/
 data/
 
 # Thu muc khac trong workspace, khong thuoc du an nay
-rag/
-rag_advanced/
-testing basic rag/
 RAGChatBot.ipynb
 requirements.txt
 requirements.lock.txt
