@@ -13,6 +13,9 @@ __pycache__/
 # Generated data (build lai duoc bang pipeline)
 rag_pipeline/data/
 
+# Du lieu nguoi dung - tu tai paper cua rieng ban, khong commit
+papers/
+
 # OS
 Thumbs.db
 .DS_Store

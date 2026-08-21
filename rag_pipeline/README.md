@@ -92,10 +92,10 @@ python -m venv .venv
 
 ### 3. Chuẩn bị dữ liệu
 
-Đặt tài liệu PDF vào thư mục `papers/` ở gốc dự án:
+Thư mục `papers/` **không đi kèm repo** — hãy tự tạo ở gốc dự án rồi đặt tài liệu PDF của bạn vào:
 
 ```text
-papers/
+papers/              <- tu tao
 ├── paper1.pdf
 └── paper2.pdf
 ```
