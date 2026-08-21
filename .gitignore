@@ -11,9 +11,13 @@ __pycache__/
 .vscode/
 
 # Generated data (build lai duoc bang pipeline)
-rag/data/
 rag_pipeline/data/
 
 # OS
 Thumbs.db
 .DS_Store
+
+# Chi theo doi thu muc rag_pipeline, bo qua tat ca con lai
+/*
+!/rag_pipeline
+!/.gitignore
