@@ -141,7 +141,7 @@ python -m rag_pipeline.pipeline \
     --log-level INFO
 ```
 
-Các giá trị khả dụng cho từng flag:
+Các giá trị cho từng flag:
 
 | Flag | Lựa chọn | Mặc định |
 | ---- | -------- | -------- |
@@ -219,3 +219,4 @@ class MyChunker(BaseChunker):
 ## Giấy phép
 
 Dự án sử dụng cho mục đích học tập và nghiên cứu. Mọi nhãn hiệu thuộc về chủ sở hữu tương ứng.
+
