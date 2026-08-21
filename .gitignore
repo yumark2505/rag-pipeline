@@ -10,17 +10,20 @@ __pycache__/
 .idea/
 .vscode/
 
-# Generated data (build lai duoc bang pipeline)
-rag_pipeline/data/
-
 # Du lieu nguoi dung - tu tai paper cua rieng ban, khong commit
 papers/
+
+# Index build lai duoc bang pipeline
+data/
+
+# Thu muc khac trong workspace, khong thuoc du an nay
+rag/
+rag_advanced/
+testing basic rag/
+RAGChatBot.ipynb
+requirements.txt
+requirements.lock.txt
 
 # OS
 Thumbs.db
 .DS_Store
-
-# Chi theo doi thu muc rag_pipeline, bo qua tat ca con lai
-/*
-!/rag_pipeline
-!/.gitignore
